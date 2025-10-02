@@ -1,4 +1,5 @@
-# 4bi-informatica
+# 📘 Informatica
+
 💻 Informatica – Fondamenti di Programmazione e Sistemi Software
 Informatica è una disciplina centrale dell’indirizzo Informatica negli Istituti Tecnici. Si occupa dello studio dei principi della programmazione, della progettazione di algoritmi e dello sviluppo di software. Attraverso un percorso didattico teorico e pratico, gli studenti imparano a risolvere problemi computazionali, a scrivere codice efficiente e a realizzare applicazioni funzionali. La materia promuove il pensiero logico, la precisione operativa e la capacità di lavorare su progetti software reali, preparando gli studenti sia al mondo del lavoro che agli studi universitari.
 
